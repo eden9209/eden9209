@@ -5,6 +5,6 @@
 
 
 - 🔭 I’m currently working on Semantic Segmentation problem in Deep learning - python project 
-- 🌱 I’m currently learning html , Node.js , MongoDB
+- 🌱 I’m currently learning : html , Node.js , MongoDB
 
 -->
