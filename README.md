@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<body>
+<body style="background-color: #ffffd2;">
   <table cellspacing="30">
     <tr>
       <td><img src="https://github.com/eden9209/cv/blob/main/circle_cropped.png?raw=true" alt="Eden picture profile"></td>
