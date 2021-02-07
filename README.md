@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="utf-8">
-  <title>Eden's Personal Site </title>
-</head>
-
 <body>
   <table cellspacing="30">
     <tr>
